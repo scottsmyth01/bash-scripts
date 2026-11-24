@@ -1,0 +1,7 @@
+{
+  "shellformat.path": "C:/Users/ssmyt/AppData/Local/Microsoft/WinGet/Links/shfmt.exe",
+  "[shellscript]": {
+    "editor.defaultFormatter": "foxundermoon.shell-format",
+    "editor.formatOnSave": true
+  }
+}
